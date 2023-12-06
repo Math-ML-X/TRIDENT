@@ -1,0 +1,8 @@
+@misc{shen2023trident,
+      title={TRIDENT: The Nonlinear Trilogy for Implicit Neural Representations}, 
+      author={Zhenda Shen and Yanqi Cheng and Raymond H. Chan and Pietro Liò and Carola-Bibiane Schönlieb and Angelica I Aviles-Rivero},
+      year={2023},
+      eprint={2311.13610},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
